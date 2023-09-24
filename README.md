@@ -1,6 +1,6 @@
 # Web3 Whitelist Chrome Extension
 
-![Project Logo](path/to/your/logo.png)
+![Project Logo](/logo.png)
 
 ## Table of Contents
 
@@ -59,8 +59,8 @@ To install the Whitelist Chrome extension, follow these steps:
 
 ## Screenshots
 
-![Screenshot1](path/to/screenshot1.png)
-![Screenshot2](path/to/screenshot2.png)
+![Screenshot1](/screenshot1.png)
+![Screenshot2](/screenshot2.png)
 
 ## Technologies Used
 
