@@ -1,6 +1,6 @@
 # Web3 Whitelist Chrome Extension
 
-![Project Logo]<img src="logo.png" width="513" height="207">
+<img src="logo.png" width="342" height="138">
 
 ## Table of Contents
 
