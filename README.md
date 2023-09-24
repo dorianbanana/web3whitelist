@@ -39,9 +39,10 @@ The Web3 Whitelist Extension is currently undergoing review of the google chrome
 
 (For now) To install the Whitelist Chrome extension, follow these steps:
 
-1. Navigate to `chrome://extensions/` in your Chrome browser.
-2. Enable `Developer mode` by toggling the switch in the top right corner.
-3. Click on `Load unpacked` and select the folder containing the Whitelist extension files.
+1. Download the .zip file and extract
+2. Navigate to `chrome://extensions/` in your Chrome browser.
+3. Enable `Developer mode` by toggling the switch in the top right corner.
+4. Click on `Load unpacked` and select the folder containing the downloaded files.
 
 ## Usage
 
