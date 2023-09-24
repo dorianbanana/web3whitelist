@@ -61,7 +61,7 @@ The Web3 Whitelist Extension is currently undergoing review of the google chrome
 
 ## Screenshots
 
-<img src="screenshot1.png" width="357" height="406">
+[](screenshot1.png | width=357)
 
 ## Contributing
 
