@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Whitelist",
+    "name": "Web3 Whitelist",
     "description": "Only make requests to a fixed set of domains.",
     "version": "0.2.7",
     "background": {
