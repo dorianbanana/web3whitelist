@@ -35,7 +35,9 @@ Navigating the web3 ecosystem, including decentralized finance (DeFi), wallet in
 
 ## Installation
 
-To install the Whitelist Chrome extension, follow these steps:
+The Web3 Whitelist Extension is currently undergoing review of the google chrome extension store. 
+
+(For now) To install the Whitelist Chrome extension, follow these steps:
 
 1. Navigate to `chrome://extensions/` in your Chrome browser.
 2. Enable `Developer mode` by toggling the switch in the top right corner.
@@ -51,21 +53,15 @@ To install the Whitelist Chrome extension, follow these steps:
 - **Bulk Upload**: Upload a list of domains from a file to the whitelist.
 - **Whitelist Management**: View, add, or remove domains from the whitelist.
 
-### Background Script
+### How does it work?
 
 - **Initialization**: Sets up a fixed whitelist from `fixed_whitelist.txt` upon installation.
+- **User Whitelist**: Listens for user entries and adds them to a user-defined whitelist.
 - **Update Rules**: Merges the fixed whitelist and user-defined whitelist, then updates the browsing rules accordingly.
-- **Communication with Popup**: Listens to messages from the popup, primarily for updating rules and fetching results.
 
 ## Screenshots
 
-![Screenshot1](/screenshot1.png)
-
-## Technologies Used
-
-- JavaScript
-- HTML
-- CSS
+<img src="screenshot1.png" size="20%">
 
 ## Contributing
 
