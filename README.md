@@ -60,7 +60,6 @@ To install the Whitelist Chrome extension, follow these steps:
 ## Screenshots
 
 ![Screenshot1](/screenshot1.png)
-![Screenshot2](/screenshot2.png)
 
 ## Technologies Used
 
@@ -74,7 +73,7 @@ To contribute, please send domain suggestions for inclusion, report any bugs you
 
 ## Changelog
 
-- **0.2.7** - [Description of the changes in version 0.2.7]
+- **0.2.7** - First public release
 
 ## License
 
