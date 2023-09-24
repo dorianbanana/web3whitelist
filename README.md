@@ -21,7 +21,11 @@
 
 ## Introduction
 
-The "Web3 Whitelist" Chrome Extension is a completely free tool designed to enhance security when navigating the web3 ecosystem, which includes decentralized finance (DeFi), wallet sites, and NFT marketplaces. Malicious sites pose significant security risks in this space. By restricting browser access to a predefined list of trusted domains and your personally trusted custom whitelist, this extension reduces the risk of phishing attacks and scams. Using Chrome's declarative net request API, it ensures that only whitelisted domains are accessible.
+The "Web3 Whitelist" Chrome Extension is a simple tool designed to enhance security when navigating the web3 ecosystem, which includes decentralized finance (DeFi), wallet sites, and NFT marketplaces. Malicious sites pose significant security risks in this space. 
+
+By restricting browser access to a predefined list of trusted domains and your personally trusted custom whitelist, this extension reduces the risk of phishing attacks and scams. Using Chrome's declarative net request API, it ensures that only whitelisted domains are accessible.
+
+The extension is open-source, completely free of charge and licensed under the MIT license.
 
 ## Features
 
