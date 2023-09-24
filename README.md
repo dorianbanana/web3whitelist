@@ -75,6 +75,10 @@ To contribute, please send domain suggestions for inclusion, report any bugs you
 
 The Web3 Whitelist Chrome Extension is licensed under the MIT License. The MIT License is a permissive free software license that allows for reuse within proprietary software provided all copies of the licensed software include a copy of the MIT License terms. Such open-source software is free to use, modify, and distribute, subject to conditions preserving the copyright notice and disclaimer.
 
+## Legal Disclaimer
+
+The Web3 Whitelist Chrome Extension is provided "as is" without any warranty of any kind, either expressed or implied. Users of the extension are solely responsible for their actions and outcomes when using it. I, the developer, am not liable for any damages, losses, or security breaches that might occur due to bugs, flaws, hacking attempts, or any other unforeseen vulnerabilities inherent within the extension or its dependencies.
+
 ## Contact/Support
 
 For inquiries or support, contact: [dorian.band1@gmail.com](mailto:dorian.band1@gmail.com).
